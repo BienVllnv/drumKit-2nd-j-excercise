@@ -1,1 +1,1 @@
-# drumKit-2nd-j-excercise
+# drumKit-2nd-js-excercise
